@@ -1,0 +1,5 @@
+print("Im Liam.")
+print("My pronouns are he him/him.")
+print("Im taking this class to fulfill general requirements.")
+print("When I'm not in class I enjoy talking and hanging out with friends.")
+print("A fun fact about me is I'm left handed.")
